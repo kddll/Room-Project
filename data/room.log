@@ -1,0 +1,423 @@
+	Exporter version: 4.6.1, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\xampp\htdocs\room\data\
+	Python World class constructor completed
+	processing begun of mesh:  topCeiling
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of node:  bathroomDoorMaster
+	processing begun of mesh:  CTRL_Baseboard.001
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  CTRL_Hole.002
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  DoorFrame.001
+		WARNING: No materials have been assigned: 
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  141
+	processing begun of mesh:  Door.001
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Handle_Back.001
+		WARNING: No materials have been assigned: 
+		num positions      :  2786
+		num normals        :  2786
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16704
+	processing begun of mesh:  Handle_Front.001
+		WARNING: No materials have been assigned: 
+		num positions      :  2786
+		num normals        :  2786
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16704
+	processing begun of node:  frontDoorMaster
+	processing begun of mesh:  CTRL_Baseboard
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12
+	processing begun of mesh:  CTRL_Hole.001
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  DoorFrame
+		WARNING: No materials have been assigned: 
+		num positions      :  38
+		num normals        :  38
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  141
+	processing begun of mesh:  Door
+		WARNING: No materials have been assigned: 
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Handle_Back
+		WARNING: No materials have been assigned: 
+		num positions      :  3422
+		num normals        :  3422
+		num uvs            :  6844
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16704
+	processing begun of mesh:  Handle_Front
+		WARNING: No materials have been assigned: 
+		num positions      :  3422
+		num normals        :  3422
+		num uvs            :  6844
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16704
+	processing begun of mesh:  featureWall
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of node:  windowMaster
+	processing begun of mesh:  windowGlass
+		WARNING: No materials have been assigned: 
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  windowFrame
+		WARNING: No materials have been assigned: 
+		num positions      :  112
+		num normals        :  112
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  378
+	processing begun of mesh:  Floor
+		WARNING: No materials have been assigned: 
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  Ceiling
+		WARNING: No materials have been assigned: 
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  Walls
+		WARNING: No materials have been assigned: 
+		num positions      :  259
+		num normals        :  259
+		num uvs            :  518
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  930
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of node:  luxury_bed
+	processing begun of mesh:  luxury_bed_cover
+		WARNING: No materials have been assigned: 
+		num positions      :  26797
+		num normals        :  26797
+		num uvs            :  53594
+		num uvs2           :  53594
+		num colors         :  0
+		num indices        :  151296
+	processing begun of mesh:  luxury_bed_cushion.001
+		WARNING: No materials have been assigned: 
+		num positions      :  30116
+		num normals        :  30116
+		num uvs            :  60232
+		num uvs2           :  60232
+		num colors         :  0
+		num indices        :  105216
+	processing begun of mesh:  luxury_bed_cushion.002
+		WARNING: No materials have been assigned: 
+		num positions      :  5134
+		num normals        :  5134
+		num uvs            :  10268
+		num uvs2           :  10268
+		num colors         :  0
+		num indices        :  27648
+	processing begun of mesh:  luxury_bed_cushion.003
+		WARNING: No materials have been assigned: 
+		num positions      :  2007
+		num normals        :  2007
+		num uvs            :  4014
+		num uvs2           :  4014
+		num colors         :  0
+		num indices        :  10752
+	processing begun of mesh:  luxury_bed_cushion.004
+		WARNING: No materials have been assigned: 
+		num positions      :  2660
+		num normals        :  2660
+		num uvs            :  5320
+		num uvs2           :  5320
+		num colors         :  0
+		num indices        :  12288
+	processing begun of mesh:  luxury_bed_cushion.004_detail
+		WARNING: No materials have been assigned: 
+		num positions      :  65535
+		num normals        :  65535
+		num uvs            :  131070
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  65535
+	WARNING: The following mesh has exceeded the maximum # of vertex elements & will be broken into multiple Babylon meshes: luxury_bed_cushion.004_detail
+	processing begun of mesh:  luxury_bed_cushion.004_detail1
+		WARNING: No materials have been assigned: 
+		num positions      :  65535
+		num normals        :  65535
+		num uvs            :  131070
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  65535
+	processing begun of mesh:  luxury_bed_cushion.004_detail2
+		WARNING: No materials have been assigned: 
+		num positions      :  37410
+		num normals        :  37410
+		num uvs            :  74820
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  37410
+	processing begun of mesh:  luxury_bed_cushion
+		WARNING: No materials have been assigned: 
+		num positions      :  4011
+		num normals        :  4011
+		num uvs            :  8022
+		num uvs2           :  8022
+		num colors         :  0
+		num indices        :  21504
+	processing begun of mesh:  luxury_bed_footboard
+		WARNING: No materials have been assigned: 
+		num positions      :  1959
+		num normals        :  1959
+		num uvs            :  3918
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4188
+	processing begun of mesh:  luxury_bed_headboard
+		WARNING: No materials have been assigned: 
+		num positions      :  7612
+		num normals        :  7612
+		num uvs            :  15224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11796
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  luxury_bed_headboardtop
+		WARNING: No materials have been assigned: 
+		num positions      :  65533
+		num normals        :  65533
+		num uvs            :  131066
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  146775
+	WARNING: The following mesh has exceeded the maximum # of vertex elements & will be broken into multiple Babylon meshes: luxury_bed_headboardtop
+	processing begun of mesh:  luxury_bed_headboardtop1
+		WARNING: No materials have been assigned: 
+		num positions      :  29005
+		num normals        :  29005
+		num uvs            :  58010
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  43209
+	processing begun of mesh:  luxury_bed_mattress
+		WARNING: No materials have been assigned: 
+		num positions      :  7485
+		num normals        :  7485
+		num uvs            :  14970
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10368
+	processing begun of mesh:  Widescreen TV
+		WARNING: No materials have been assigned: 
+		num positions      :  144
+		num normals        :  144
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  822
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  wideScreenGlass
+		WARNING: No materials have been assigned: 
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  modern_tvcabinet
+		WARNING: No materials have been assigned: 
+		num positions      :  2176
+		num normals        :  2176
+		num uvs            :  4352
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4524
+	processing begun of mesh:  lampBase
+		WARNING: No materials have been assigned: 
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  lamp.body
+		WARNING: No materials have been assigned: 
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  lamp.neck
+		WARNING: No materials have been assigned: 
+		num positions      :  310
+		num normals        :  310
+		num uvs            :  620
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  lamp.shade
+		WARNING: No materials have been assigned: 
+		num positions      :  2048
+		num normals        :  2048
+		num uvs            :  4096
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12288
+	processing begun of mesh:  lamp.top
+		WARNING: No materials have been assigned: 
+		num positions      :  3283
+		num normals        :  3283
+		num uvs            :  6566
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of node:  nightstandMaster
+	processing begun of mesh:  Nightstand bottom
+		WARNING: No materials have been assigned: 
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Nightstand.drawer
+		WARNING: No materials have been assigned: 
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Nightstand.drawerstop
+		WARNING: No materials have been assigned: 
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Nightstand.knob
+		WARNING: No materials have been assigned: 
+		num positions      :  29721
+		num normals        :  29721
+		num uvs            :  59442
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  75264
+	processing begun of mesh:  Nightstand bottom drawer
+		WARNING: No materials have been assigned: 
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of mesh:  Nightstand left side
+		WARNING: No materials have been assigned: 
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Nightstand right.001
+		WARNING: No materials have been assigned: 
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Nightstand right
+		WARNING: No materials have been assigned: 
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Nightstand top
+		WARNING: No materials have been assigned: 
+		num positions      :  131
+		num normals        :  131
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  156
+	processing begun of light (SUN):  Sun
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 16.5049 secs
